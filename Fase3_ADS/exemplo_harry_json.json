@@ -1,0 +1,15 @@
+{
+  "name": "Harry Potter",
+  "age": 17,
+  "house": "Gryffindor",
+  "patronus": "Cervo",
+  "wand": {
+    "wood": "Azevinho",
+    "core": "Pena de Fênix",
+    "length": "11 polegadas"
+  },
+  "friends": [
+    "Hermione Granger",
+    "Rony Weasley"
+  ]
+}

@@ -1,0 +1,15 @@
+<caratere>
+    <name>Harry Potter</name>
+    <age>17</age>
+    <house>Gryffindor</house>
+    <patronus>Cervo</patronus>
+    <wand>
+        <wood>Azevinho</wood>
+        <core>Pena de Fênix</core>
+        <length>11 polegadas</length>
+    </wand>
+    <friends>
+        <friend>Hermione Granger</friend>
+        <friend>Rony Weasley</friend>
+    </friends>
+</caratere>
