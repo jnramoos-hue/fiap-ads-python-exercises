@@ -12,6 +12,14 @@
 
 ---
 
+<div align="center">
+
+[⬅️ Fase 01](https://github.com/jnramoos-hue/fiap-ads-python-exercises/tree/main/Fase1_ADS/fiap-ads-python-exercises) · [🏠 Repositório principal](https://github.com/jnramoos-hue/fiap-ads-python-exercises) · [➡️ Fase 03](https://github.com/jnramoos-hue/fiap-ads-python-exercises/tree/main/Fase3_ADS) · [📁 Abrir esta fase](https://github.com/jnramoos-hue/fiap-ads-python-exercises/tree/main/Fase2_ADS/fiap-ads-python-exercises)
+
+</div>
+
+---
+
 # 🇧🇷 Português
 
 ## Sobre esta fase

@@ -59,15 +59,14 @@ O repositório acompanha a passagem de soluções simples e sequenciais para pro
 
 <div align="center">
 
-| Fase | Direção da aprendizagem | README |
+| Fase | Direção da aprendizagem | Acesso |
 |:---:|:---|:---:|
-| **01** | Algoritmos, pseudocódigo e primeiros programas | [Abrir](./Fase1_ADS/fiap-ads-python-exercises/README.md) |
-| **02** | Estruturas da linguagem e resolução de problemas | [Abrir](./Fase2_ADS/fiap-ads-python-exercises/README.md) |
-| **03** | Arquivos, formatos estruturados e persistência | [Abrir](./Fase3_ADS/README.md) |
+| **01** | Algoritmos, pseudocódigo e primeiros programas | [Abrir Fase 01](https://github.com/jnramoos-hue/fiap-ads-python-exercises/tree/main/Fase1_ADS/fiap-ads-python-exercises) |
+| **02** | Estruturas da linguagem e resolução de problemas | [Abrir Fase 02](https://github.com/jnramoos-hue/fiap-ads-python-exercises/tree/main/Fase2_ADS/fiap-ads-python-exercises) |
+| **03** | Arquivos, formatos estruturados e persistência | [Abrir Fase 03](https://github.com/jnramoos-hue/fiap-ads-python-exercises/tree/main/Fase3_ADS) |
 
 </div>
 
-> Os caminhos podem ser ajustados caso as pastas sejam reorganizadas futuramente.
 
 ---
 
